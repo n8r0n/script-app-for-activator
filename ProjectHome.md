@@ -1,0 +1,1 @@
+a simple iOS app that runs a script, usable with Activator
